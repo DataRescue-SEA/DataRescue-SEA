@@ -5,35 +5,27 @@ layout: default
 <header>
   <a href="https://www.datarefuge.org/" title="Data Refuge Logo"><img class="logo" src="images/logo.jpg"></a>
   <h2>datarescueDC</h2>
-  <h3>Lauinger Library, Murray Conference Room, Room 541 (Saturday)<br>
-    Reiss Science Building, Room 103 (Sunday)<br>
-    Georgetown University<br>
-    February 18-19, 2017
+  <h3>University of Washington<br>
+    Odegaard Undergraduate Library<br>
+    4060 George Washington Lane Northeast<br>
+    Seattle, WA 98195<br>
+    February 25, 2017<br>
   </h3>
 </header>
 
 <div id="map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2120.5393250981792!2d-77.07383255877144!3d38.90908820078443!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2e8cec8bb12477d4!2sReiss+Science+Building!5e0!3m2!1sen!2sus!4v1486419654988" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2687.4391012299884!2d-122.3125400489046!3d47.656465592423274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549014f329bffff7%3A0x6efe7422cf2f2f93!2sOdegaard+Undergraduate+Library+(OUG)!5e0!3m2!1sen!2sus!4v1487201985277" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
-Over the course of two days datarescueDC will help to seed, sort, harvest, and
-store valuable and at risk federal government data in [Data Refuge], a project
-facilitated by the University of Pennsylvania's Program in Environmental
-Humanities. Specifically we will be using this [workflow
-model](https://github.com/datarefugephilly/workflow/blob/master/README.md)
-developed at the first DataRescue event in Philadelphia, and which has been
-further refined at events in Los Angeles, Chicago and Ann Arbor.
+Data Rescue Seattle will be held at the University of Washington on February 25, from 12pm-6:30pm in the Odegaard Undergraduate Library. Feel free to arrive late or leave early -- we appreciate any time you can volunteer for this event. Please bring your own laptop.
 
-Whether you are a researcher who actively uses federal datasets, someone who
-values the data publishing work the federal government, a software developer,
-designer, or writer who we've got work for you to do, and would love for you 
-to be involved.
+This event is modeled on the national DataRefuge movement organized by EDGI and Penn's Program in the Environmental Humanities and on DataRescue events at institutions around the United States.
 
-Please note that participants will need to show a valid photo ID to enter the Lauinger Library, but information will not be recorded. 
+Much of our day will involve collaboratively identifying important online public resources and datasets, nominating URLs to the Internet Archive's End of Term project, using/adapting/creating tools to acquire and back-up further datasets, and getting the word around to others who can do the same.
 
 ## Schedule
 
-#### Saturday, February 18th: 12:00 pm to 5:30 pm
+#### Saturday, February 25th: 12:00 pm to 6:30 pm
 Lauinger Library, Murray Conference Room (Room 541)
 
 Saturday's sessions will include:  

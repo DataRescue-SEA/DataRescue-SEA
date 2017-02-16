@@ -17,14 +17,12 @@ layout: default
 </div>
 
 ### Transportation
-Lightrail and numerous bus routes come to UW from around Seattle. Parking is also available in the main parking garage on nearby. The Odegaard Undergraduate Library is located on the west side of Red Square. The building opens at 12pm. Transporation information: [](http://www.washington.edu/facilities/transportation/) 
+Lightrail and numerous bus routes come to UW from around Seattle. Parking is also available in the main parking garage on nearby. The Odegaard Undergraduate Library is located on the west side of Red Square. The building opens at 12pm. Additional transporation information: http://www.washington.edu/facilities/transportation/ 
 
-## What is this even?
-Data Rescue Seattle will be held at the University of Washington on February 25, from 12pm-6:30pm in the Odegaard Undergraduate Library. Feel free to arrive late or leave early -- we appreciate any time you can volunteer for this event. Please bring your own laptop.
-
+## Data Rescue?
 This event is modeled on the national [DataRefuge](http://www.ppehlab.org/) movement organized by EDGI and Penn's Program in the Environmental Humanities and on DataRescue events at institutions around the United States.
 
-Much of our day will involve collaboratively identifying important online public resources and datasets, nominating URLs to the Internet Archive's End of Term project, using/adapting/creating tools to acquire and back-up further datasets, and getting the word around to others who can do the same.
+Much of our day will involve collaboratively identifying important online public resources and datasets, nominating URLs to the Internet Archive's End of Term project, using/adapting/creating tools to acquire and back-up further datasets, and getting the word around to others who can do the same. Feel free to arrive late or leave early -- we appreciate any time you can volunteer for this event. Please bring your own laptop.
 
 ### Schedule
 Saturday, February 25th: 12:00 pm to 6:30 pm          

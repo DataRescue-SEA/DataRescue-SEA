@@ -3,7 +3,7 @@ layout: default
 ---
 
 <header>
-  <a href="https://www.datarefuge.org/" title="Data Refuge Logo"><img src=""></a>
+  <a href="https://www.datarefuge.org/" title="DR-SEA Logo"><img src="https://raw.githubusercontent.com/DataRescue-SEA/DataRescue-SEA/master/images/datarescue-sea.jpg"></a>
   <h2>DataRescue Seattle</h2>
   <h3>University of Washington<br>
     Odegaard Undergraduate Library<br>

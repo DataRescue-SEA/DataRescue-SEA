@@ -4,12 +4,11 @@ layout: default
 
 <header>
   <a href="https://www.datarefuge.org/" title="DR-SEA Logo"><img src="https://raw.githubusercontent.com/DataRescue-SEA/DataRescue-SEA/master/images/datarescue-sea.jpg"></a>
-  <h2>DataRescue Seattle</h2>
+  <h2>February 25, 2017</h2>
   <h3>University of Washington<br>
     Odegaard Undergraduate Library<br>
     4060 George Washington Lane Northeast<br>
     Seattle, WA 98195<br>
-    February 25, 2017<br>
   </h3>
 </header>
 

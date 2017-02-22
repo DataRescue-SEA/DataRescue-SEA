@@ -93,10 +93,10 @@ A diverse group of people-not just climate scientists-benefit from this informat
 
 * YOUR NAME HERE 
 
-[DataRefuge Seattle Slack](https://datarefuge.slack.com/messages/datarescueseattle/) 
-[Data Rescue events](http://www.ppehlab.org/what-is-a-datarescue-event)
-[Data Refuge- CKAN Repository](https://www.datarefuge.org/)
-[GitHub](https://github.com/DataRescue-SEA)
-[this markdown file](https://github.com/DataRescue-SEA/DataRescue-SEA/edit/master/index.md)
-[Participant Registration](https://www.eventbrite.com/e/seattle-data-rescue-event-tickets-32105338933)
+[DataRefuge Seattle Slack](https://datarefuge.slack.com/messages/datarescueseattle/)    
+[Data Rescue events](http://www.ppehlab.org/what-is-a-datarescue-event)         
+[Data Refuge- CKAN Repository](https://www.datarefuge.org/)         
+[GitHub](https://github.com/DataRescue-SEA)         
+[this markdown file](https://github.com/DataRescue-SEA/DataRescue-SEA/edit/master/index.md)         
+[Participant Registration](https://www.eventbrite.com/e/seattle-data-rescue-event-tickets-32105338933)          
 
